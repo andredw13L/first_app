@@ -11,6 +11,8 @@ void main() {
                 Colors.deepPurple,
                 Colors.purpleAccent
               ], 
+              begin: Alignment.topLeft,
+              end: Alignment.bottomRight
             ),
           ),
           child: const Center(
